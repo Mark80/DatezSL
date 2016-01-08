@@ -5,6 +5,7 @@ import java.time._
 
 import org.scalatest._
 
+import DSL._
 
 class DateTimeSpec extends FlatSpec with Matchers {
 
